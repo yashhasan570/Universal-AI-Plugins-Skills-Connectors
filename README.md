@@ -3,19 +3,18 @@
 A curated list of 250 free and open-source AI agent plugins, skills, MCP servers and connectors: what to plug into your coding agent or assistant. Curated from 500+ candidates, with licenses and activity verified.
 ## Contents
 
-- [🧩 Agent Skills](#agent-skills) (62)
-- [🔌 MCP Servers](#mcp-servers) (81)
+- [🧩 Agent Skills](#agent-skills) (58)
+- [🔌 MCP Servers](#mcp-servers) (80)
 - [🌐 Browser & Web for Agents](#browser--web-for-agents) (11)
-- [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (54)
+- [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (55)
 - [🧠 Memory & Context](#memory--context) (12)
 - [📚 RAG & Knowledge](#rag--knowledge) (7)
 - [🎙 Voice & Speech](#voice--speech) (5)
 - [🧰 Integration Platforms](#integration-platforms) (5)
-- [🚪 Gateways, Routing & Observability](#gateways-routing--observability) (13)
+- [🚪 Gateways, Routing & Observability](#gateways-routing--observability) (16)
 
 ## 🧩 Agent Skills
 
-- [Anthropic Skills](https://github.com/anthropics/skills) - Anthropic's official public Agent Skills collection. (License: Custom)
 - [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework and software methodology for coding agents. (License: MIT)
 - [ECC](https://github.com/affaan-m/ECC) - Agent harness performance system with skills, instincts and reflexes. (License: MIT)
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (License: MIT)
@@ -38,15 +37,12 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Apple Skills](https://github.com/rshankras/claude-code-apple-skills) - iOS, macOS and iPadOS development skills. (License: MIT)
 - [Founder Skills](https://github.com/emotixco/claude-skills-founder) - Startup founder skills: briefs, competitor analysis, launches. (License: MIT)
 - [GRC Skills](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance) - Governance, risk and compliance skills. (License: MIT)
-- [LLM Council](https://github.com/aiwithremy/claude-skills-llm-council) - Runs decisions through multiple AI models. (License: Custom)
 - [Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human plus AI music production workflow for Suno. (License: CC0-1.0)
-- [Office Skills](https://github.com/tfriedel/claude-office-skills) - Create and edit PPTX, DOCX and XLSX from an agent. (License: Custom)
 - [Archify](https://github.com/tt-a1i/archify) - Turns ideas, plans or codebases into interactive diagrams. (License: Apache-2.0)
 - [Graphify](https://github.com/Graphify-Labs/graphify) - Turns any codebase with docs and schemas into a knowledge graph. (License: Apache-2.0)
 - [Agent Skills Spec](https://github.com/agentskills/agentskills) - The open specification for Agent Skills. (License: Apache-2.0)
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner that detects malicious agent skills. (License: Apache-2.0)
 - [Vercel Skills CLI](https://github.com/vercel-labs/skills) - Open agent skills tool, install with npx skills. (License: MIT)
-- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills. (License: Custom)
 - [Google Skills](https://github.com/google/skills) - Agent Skills for Google products and technologies. (License: Apache-2.0)
 - [Agents and Plugins](https://github.com/wshobson/agents) - Agents, skills and commands for Claude Code and Codex. (License: MIT)
 - [CC Switch](https://github.com/farion1231/cc-switch) - All-in-one desktop assistant for Claude Code, Codex and more. (License: MIT)
@@ -143,7 +139,6 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Obsidian MCP](https://github.com/MarkusPfundstein/mcp-obsidian) - Read and edit Obsidian vaults. (License: MIT)
 - [Xiaohongshu MCP](https://github.com/xpzouying/xiaohongshu-mcp) - Post and manage Xiaohongshu content. (License: Apache-2.0)
 - [draw.io MCP](https://github.com/jgraph/drawio-mcp) - Edit draw.io diagrams from an agent. (License: Apache-2.0)
-- [Excalidraw MCP](https://github.com/excalidraw/excalidraw-mcp) - Official Excalidraw MCP server. (License: Custom)
 - [Markdownify MCP](https://github.com/zcaceres/markdownify-mcp) - Convert webpages and files to Markdown. (License: MIT)
 - [git MCP](https://github.com/idosal/git-mcp) - Use any public GitHub repo as documentation. (License: Apache-2.0)
 - [mcpo](https://github.com/open-webui/mcpo) - Expose any OpenAPI server as MCP tools. (License: MIT)
@@ -178,6 +173,8 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 
 ## 🤖 Agent Frameworks & Harnesses
 
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for embedding AI copilots in your own app. (License: MIT)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Autonomous software-developer agent platform with a UI. (License: MIT)
 - [Goose](https://github.com/aaif-goose/goose) - Extensible AI agent that goes beyond code suggestions. (License: Apache-2.0)
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Long-horizon super agent for research and coding. (License: MIT)
 - [OpenBot](https://github.com/CopilotKit/OpenBot) - Open self-hostable AI chatbot, production-ready. (License: MIT)
@@ -194,7 +191,6 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Qwen Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework built on Qwen models. (License: Apache-2.0)
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python. (License: MIT)
 - [MCP Agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents with MCP and workflows. (License: Apache-2.0)
-- [Claude Code](https://github.com/anthropics/claude-code) - Anthropic's agentic coding tool for the terminal. (License: Custom)
 - [Codex](https://github.com/openai/codex) - OpenAI's lightweight terminal coding agent. (License: Apache-2.0)
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source terminal coding agent. (License: MIT)
 - [Crush](https://github.com/charmbracelet/crush) - Charm's terminal coding agent. (License: FSL-1.1)
@@ -250,12 +246,12 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 
 ## 📚 RAG & Knowledge
 
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Fine-tune 100+ LLMs with one command-line framework. (License: Apache-2.0)
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Document processing and RAG platform. (License: MIT)
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything) - All-in-one multimodal RAG system. (License: MIT)
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Automatically optimize your RAG pipeline. (License: Apache-2.0)
 - [txtai](https://github.com/neuml/txtai) - Embeddings database and RAG workflows. (License: Apache-2.0)
 - [Quivr](https://github.com/The-Vibe-Company/quivr) - Your second brain, RAG over all your files. (License: MIT)
-- [Easy Dataset](https://github.com/ConardLi/easy-dataset) - Create fine-tuning datasets for LLMs. (License: AGPL-3.0)
 - [Pathway](https://github.com/pathwaycom/pathway) - Streaming ETL and real-time pipelines for AI. (License: Apache-2.0)
 
 ## 🎙 Voice & Speech
@@ -276,6 +272,10 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 
 ## 🚪 Gateways, Routing & Observability
 
+- [exo](https://github.com/exo-explore/exo) - Run AI models across a cluster of everyday devices. (License: Apache-2.0)
+- [A2A](https://github.com/google-a2a/A2A) - Agent-to-Agent protocol for agents talking to each other. (License: Apache-2.0)
+- [Promptfoo](https://github.com/promptfoo/promptfoo) - Test and red-team LLM prompts and agents. (License: MIT)
+- [Guardrails](https://github.com/guardrails-ai/guardrails) - Guardrails that validate and fix LLM outputs. (License: Apache-2.0)
 - [E2B](https://github.com/e2b-dev/E2B) - Secure cloud sandboxes where agents run code. (License: Apache-2.0)
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call 100+ LLM providers through one OpenAI-style API. (License: MIT)
 - [OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Free AI gateway with one endpoint, 375 providers. (License: MIT)
@@ -285,7 +285,6 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Codeburn](https://github.com/getagentseal/codeburn) - Track AI coding token usage and cost across 37 tools. (License: MIT)
 - [AnySearch MCP](https://github.com/anysearch-ai/anysearch-mcp-server) - Unified real-time web search MCP server. (License: Apache-2.0)
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM inference and serving. (License: Apache-2.0)
-- [OpenAI Evals](https://github.com/openai/evals) - OpenAI's framework for evaluating models. (License: Apache-2.0)
 - [EvalScope](https://github.com/modelscope/evalscope) - Comprehensive LLM evaluation toolkit. (License: Apache-2.0)
 - [Cactus](https://github.com/cactus-compute/cactus) - Run LLMs on-device on phones and single-board computers. (License: Apache-2.0)
 - [Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-powered database client and SQL assistant. (License: Apache-2.0)
