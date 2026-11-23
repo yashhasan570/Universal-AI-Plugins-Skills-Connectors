@@ -66,7 +66,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) - Turns documents into presentation web pages. (License: MIT)
 - [Prompt Master](https://github.com/nidhinjs/prompt-master) - Prompt engineering skill. (License: MIT)
 - [Claude HUD](https://github.com/jarrodwatts/claude-hud) - Live dashboard for what Claude Code is doing. (License: MIT)
-- [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skills for agents. (License: Custom)
+- [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skills for agents. (License: ISC)
 - [Scenario Skills](https://github.com/scenario-labs/skills) - Skills for testing and evaluation scenarios. (License: MIT)
 - [Appllama Skills](https://github.com/Appllama/appllama-skills) - Curated agent skills collection. (License: MIT)
 - [Vibe Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Everyday productivity skills. (License: Apache-2.0)
@@ -167,7 +167,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Browser Use](https://github.com/browser-use/browser-use) - Python library for AI browser agents. (License: MIT)
 - [Browser Harness](https://github.com/browser-use/browser-harness) - Agents use your real logged-in Chrome. (License: MIT)
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Chrome extension for web automation agents. (License: Apache-2.0)
-- [Browserless](https://github.com/browserless/browserless) - Headless browsers in Docker for agents. (License: Custom)
+- [Browserless](https://github.com/browserless/browserless) - Headless browsers in Docker for agents. (License: GPL-3.0)
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Web scraping built for AI context. (License: Apache-2.0)
 - [Midscene](https://github.com/web-infra-dev/midscene) - End-to-end testing in natural language. (License: MIT)
 - [OpenCLI](https://github.com/jackwener/OpenCLI) - Turns any website into a CLI for your agent. (License: Apache-2.0)
@@ -269,7 +269,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 ## 🧰 Integration Platforms
 
 - [Nango](https://github.com/nangoHQ/nango) - Unified API and auth layer for 400+ integrations. (License: Elastic-2.0)
-- [Pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs with code-level control. (License: Custom)
+- [Pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs with code-level control. (License: ISC)
 - [Activepieces](https://github.com/activepieces/activepieces) - No-code automation, open Zapier alternative. (License: MIT)
 - [Huginn](https://github.com/huginn/huginn) - Classic event-driven agents that watch and act. (License: MIT)
 - [Integuru](https://github.com/Integuru-AI/Integuru) - AI that reverse-engineers platform APIs into integrations. (License: AGPL-3.0)
