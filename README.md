@@ -7,7 +7,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [🔌 MCP Servers](#mcp-servers) (80)
 - [🌐 Browser & Web for Agents](#browser--web-for-agents) (11)
 - [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (55)
-- [🧠 Memory & Context](#memory--context) (12)
+- [🧠 Memory & Context](#memory--context) (13)
 - [📚 RAG & Knowledge](#rag--knowledge) (7)
 - [🎙 Voice & Speech](#voice--speech) (5)
 - [🧰 Integration Platforms](#integration-platforms) (5)
@@ -231,6 +231,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 
 ## 🧠 Memory & Context
 
+- [Memvid](https://github.com/memvid/memvid) - Packs agent memory into video files for fast retrieval. (License: Apache-2.0)
 - [MemPalace](https://github.com/MemPalace/mempalace) - Top-benchmarked open AI memory system. (License: MIT)
 - [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for agents. (License: MIT)
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Compresses tool outputs and logs before they hit your context. (License: Apache-2.0)
