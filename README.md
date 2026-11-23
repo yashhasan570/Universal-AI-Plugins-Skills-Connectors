@@ -197,7 +197,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Claude Code](https://github.com/anthropics/claude-code) - Anthropic's agentic coding tool for the terminal. (License: Custom)
 - [Codex](https://github.com/openai/codex) - OpenAI's lightweight terminal coding agent. (License: Apache-2.0)
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source terminal coding agent. (License: MIT)
-- [Crush](https://github.com/charmbracelet/crush) - Charm's terminal coding agent. (License: Custom)
+- [Crush](https://github.com/charmbracelet/crush) - Charm's terminal coding agent. (License: FSL-1.1)
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Alibaba's coding agent built on Qwen. (License: Apache-2.0)
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) - VS Code extension for agentic coding. (License: MIT)
 - [Continue](https://github.com/continuedev/continue) - IDE assistant you can point at any model. (License: Apache-2.0)
@@ -225,7 +225,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [Career Ops](https://github.com/career-ops-hq/career-ops) - Job search agent that scans boards and applies for you. (License: MIT)
 - [Open Code Review](https://github.com/alibaba/open-code-review) - AI code review battle-tested at Alibaba scale. (License: Apache-2.0)
 - [Keploy](https://github.com/keploy/keploy) - AI API test generation from real traffic. (License: Apache-2.0)
-- [CompanyOS](https://github.com/kortix-ai/CompanyOS) - Agent-first company operating system. (License: Custom)
+- [CompanyOS](https://github.com/kortix-ai/CompanyOS) - Agent-first company operating system. (License: Elastic-2.0)
 - [cmux](https://github.com/manaflow-ai/cmux) - Run many coding agents in parallel. (License: GPL-3.0)
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Manage a swarm of coding agents on a kanban board. (License: Apache-2.0)
 - [Beads](https://github.com/gastownhall/beads) - Issue tracker designed for agent teams. (License: MIT)
@@ -255,8 +255,8 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Automatically optimize your RAG pipeline. (License: Apache-2.0)
 - [txtai](https://github.com/neuml/txtai) - Embeddings database and RAG workflows. (License: Apache-2.0)
 - [Quivr](https://github.com/The-Vibe-Company/quivr) - Your second brain, RAG over all your files. (License: MIT)
-- [Easy Dataset](https://github.com/ConardLi/easy-dataset) - Create fine-tuning datasets for LLMs. (License: Custom)
-- [Pathway](https://github.com/pathwaycom/pathway) - Streaming ETL and real-time pipelines for AI. (License: Custom)
+- [Easy Dataset](https://github.com/ConardLi/easy-dataset) - Create fine-tuning datasets for LLMs. (License: AGPL-3.0)
+- [Pathway](https://github.com/pathwaycom/pathway) - Streaming ETL and real-time pipelines for AI. (License: Apache-2.0)
 
 ## 🎙 Voice & Speech
 
@@ -268,9 +268,9 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 
 ## 🧰 Integration Platforms
 
-- [Nango](https://github.com/nangoHQ/nango) - Unified API and auth layer for 400+ integrations. (License: Custom)
+- [Nango](https://github.com/nangoHQ/nango) - Unified API and auth layer for 400+ integrations. (License: Elastic-2.0)
 - [Pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs with code-level control. (License: Custom)
-- [Activepieces](https://github.com/activepieces/activepieces) - No-code automation, open Zapier alternative. (License: Custom)
+- [Activepieces](https://github.com/activepieces/activepieces) - No-code automation, open Zapier alternative. (License: MIT)
 - [Huginn](https://github.com/huginn/huginn) - Classic event-driven agents that watch and act. (License: MIT)
 - [Integuru](https://github.com/Integuru-AI/Integuru) - AI that reverse-engineers platform APIs into integrations. (License: AGPL-3.0)
 
@@ -280,12 +280,12 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call 100+ LLM providers through one OpenAI-style API. (License: MIT)
 - [OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Free AI gateway with one endpoint, 375 providers. (License: MIT)
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) - Fast AI gateway with guardrails. (License: MIT)
-- [Langfuse](https://github.com/langfuse/langfuse) - Agent observability: traces, evals and prompt management. (License: Custom)
+- [Langfuse](https://github.com/langfuse/langfuse) - Agent observability: traces, evals and prompt management. (License: MIT)
 - [TensorZero](https://github.com/tensorzero/tensorzero) - LLMOps that unifies gateway, observability and evals. (License: Apache-2.0)
 - [Codeburn](https://github.com/getagentseal/codeburn) - Track AI coding token usage and cost across 37 tools. (License: MIT)
 - [AnySearch MCP](https://github.com/anysearch-ai/anysearch-mcp-server) - Unified real-time web search MCP server. (License: Apache-2.0)
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM inference and serving. (License: Apache-2.0)
-- [OpenAI Evals](https://github.com/openai/evals) - OpenAI's framework for evaluating models. (License: Custom)
+- [OpenAI Evals](https://github.com/openai/evals) - OpenAI's framework for evaluating models. (License: Apache-2.0)
 - [EvalScope](https://github.com/modelscope/evalscope) - Comprehensive LLM evaluation toolkit. (License: Apache-2.0)
 - [Cactus](https://github.com/cactus-compute/cactus) - Run LLMs on-device on phones and single-board computers. (License: Apache-2.0)
 - [Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-powered database client and SQL assistant. (License: Apache-2.0)
