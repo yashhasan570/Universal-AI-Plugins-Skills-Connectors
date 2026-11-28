@@ -1,12 +1,12 @@
 # 🤖 Universal AI Plugins, Skills & Connectors
 
-A curated list of 250 free and open-source AI agent plugins, skills, MCP servers and connectors: what to plug into your coding agent or assistant. Curated from 500+ candidates, with licenses and activity verified.
+A curated list of 251 free and open-source AI agent plugins, skills, MCP servers and connectors: what to plug into your coding agent or assistant. Curated from 500+ candidates, with licenses and activity verified.
 ## Contents
 
 - [🧩 Agent Skills](#agent-skills) (58)
 - [🔌 MCP Servers](#mcp-servers) (80)
 - [🌐 Browser & Web for Agents](#browser--web-for-agents) (11)
-- [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (55)
+- [🤖 Agent Frameworks & Harnesses](#agent-frameworks--harnesses) (56)
 - [🧠 Memory & Context](#memory--context) (13)
 - [📚 RAG & Knowledge](#rag--knowledge) (7)
 - [🎙 Voice & Speech](#voice--speech) (5)
@@ -180,6 +180,7 @@ A curated list of 250 free and open-source AI agent plugins, skills, MCP servers
 - [OpenBot](https://github.com/CopilotKit/OpenBot) - Open self-hostable AI chatbot, production-ready. (License: MIT)
 - [Magentic UI](https://github.com/microsoft/magentic-ui) - Experimental agent that works across browser and code. (License: MIT)
 - [Osaurus](https://github.com/osaurus-ai/osaurus) - Open agent harness for macOS, local or cloud models. (License: MIT)
+- [Agno](https://github.com/agno-agi/agno) - Full-stack framework for building multi-agent systems. (License: Apache-2.0)
 - [Paperclip](https://github.com/paperclipai/paperclip) - Manage a team of agents at work. (License: MIT)
 - [Coze Studio](https://github.com/coze-dev/coze-studio) - AI agent development platform with visual tools. (License: Apache-2.0)
 - [Langflow](https://github.com/langflow-ai/langflow) - Build and deploy AI agents with a visual builder. (License: MIT)
